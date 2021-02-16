@@ -8,5 +8,5 @@ The button used is a metal pushbutton containing a blue LED which can be turned 
 - Button LED on and off 
 
 ## Wire Guide
-![wiringButton](button.png)
+![wiringButton](Button_Wiring.png)
  
