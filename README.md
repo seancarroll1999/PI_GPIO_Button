@@ -24,5 +24,4 @@ The pi pictured above is the Raspberry Pi 4 however the GPIO pins are the same o
 
 ***Note: Both C1 and (-) can be connected to the same ground source***
 
-## Python Explanation 
-
+## Python code file contains detailed comments outlining code use
