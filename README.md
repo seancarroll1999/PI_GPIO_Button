@@ -6,6 +6,7 @@ The button used is a metal pushbutton containing a blue LED which can be turned 
 - Short press recognition 
 - Long press recognition
 - Button LED on and off 
+- Button Blinking LED Feature (Different Speed variations)
 
 ## Wire Guide
 ![wiringButton](Button_Wiring.png)
